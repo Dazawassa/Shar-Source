@@ -4,4 +4,4 @@ This is a project to use the Simpsons Hit and Run Source code to better understa
 
 There is no specific goal in mind with what is wanted from this project. However, it is hoped that by better understanding the internals of the game and then making this information accessible. Both to people with and without coding experience. This could better the development of modding tool, speedrunning techniques along with anything else related to the game.
 
-There is a wiki which exists to attempt to keep all discoveries organised and accessible. The wiki can be found [here](https://github.com/Dazawassa/Shar-Source/wiki) "Reverse engineering channel on The Simpsons Hit and Run Speedrunning server").
+There is a wiki which exists to attempt to keep all discoveries organised and accessible. The wiki can be found [here](https://github.com/Dazawassa/Shar-Source/wiki).
